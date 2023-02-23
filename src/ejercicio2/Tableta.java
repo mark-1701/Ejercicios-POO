@@ -1,6 +1,6 @@
 package ejercicio2;
 
-public class Tableta {
+public class Tableta extends ProductoElectronico{
     double tamanoPantalla;
     String resolucionPantalla;
 

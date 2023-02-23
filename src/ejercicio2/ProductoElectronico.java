@@ -3,7 +3,7 @@ package ejercicio2;
 public abstract class ProductoElectronico {
     double precio;
     String marca;
-    String modelo; 
+    String modelo;    
 
     public double getPrecio() {
         return precio;
